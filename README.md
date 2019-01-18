@@ -11,6 +11,6 @@ This project uses a <a href="https://en.wikipedia.org/wiki/Stochastic_cellular_a
 
 The original goal of this project was to turn some version of cellular automata into a level based mobile game, presenting the player with the fun and puzzling challenges of generating various elements and phenomena. Unfortunately, I came to the conclusion that using conventional CAs made the game too deterministic and dull while stochastic cellular automaton would make it too unpredictable (the old <a href="https://en.wikipedia.org/wiki/Man,_Play_and_Games)">Agon vs Alea</a>, or skill vs RNG debate in game design). For anyone wanting to use CA in a game, I would recommend utilizing simpler deterministic systems rather than stochastic ones.
 
-To start, simply click any cell in order to change its color to blue, green, or red. Press play to watch the cells battle each other out in the grid.
+<a href="https://store.unity.com/download?ref=personal">Unity</a> is required to run it. To start, simply click any cell in order to change its color to blue, green, or red. Press play to watch the cells battle each other out in the grid.
 
 Additional note - Stephen Wolfram (creator of Wolfram Alpha) has studied cellular automata for decades and has made many <a href="https://en.wikipedia.org/wiki/A_New_Kind_of_Science">interesting findings</a>.
