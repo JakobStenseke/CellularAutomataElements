@@ -13,6 +13,4 @@ The original goal of this project was to turn some version of cellular automata 
 
 To start, simply click any cell in order to change its color to blue, green, or red. Press play to watch the cells battle each other out in the grid.
 
-Additional note:
-
-Stephen Wolfram (creator of Wolfram Alpha) has studied cellular automata for decades and has made many <a href="https://en.wikipedia.org/wiki/A_New_Kind_of_Science">interesting findings</a>.
+Additional note - Stephen Wolfram (creator of Wolfram Alpha) has studied cellular automata for decades and has made many <a href="https://en.wikipedia.org/wiki/A_New_Kind_of_Science">interesting findings</a>.
